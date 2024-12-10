@@ -9,23 +9,38 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+whatIsCICD = new Template.Microlesson {
+  friendlyName = "What is CICD?"
+  dirName = "what-is-cicd"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+continuousIntegration = new Template.Microlesson {
+  friendlyName = "Continuous Integration"
+  dirName = "continuous-integration"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+creatingABuildPipelineWithJenkins = new Template.Microlesson {
+  friendlyName = "Creating a Build Pipeline with Jenkins"
+  dirName = "creating-a-build-pipeline-with-jenkins"
   type = "Content"
   videoUrl = ""
 }
+
+integrationTesting = new Template.Microlesson {
+  friendlyName = "Integration Testing"
+  dirName = "integration-testing"
+  type = "Content"
+  videoUrl = ""
+}
+
+continuousDelivery = new Template.Microlesson {
+  friendlyName = "Continuous Delivery"
+  dirName = "continuous-delivery"
+  type = "Content"
+  videoUrl = ""
+}
+
