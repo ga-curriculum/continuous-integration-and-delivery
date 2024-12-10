@@ -56,16 +56,16 @@ In some companies, there will need to be a final approval or review by a human b
 - What challenges could arise when using continuous deployment in a less-than-ideal scenario?
 - Can you think of strategies or tools that could address some of these challenges?
 
-| Situations Where Continuous Deployment Is Beneficial                                                                                 | Situations Where Continuous Deployment May Not Be Ideal                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| Rapid innovation and frequent updates, such as in consumer-facing apps or services requiring quick iteration based on user feedback. | In highly regulated industries (e.g., finance, healthcare) where changes must undergo extensive manual review before deployment. |
-| Ensures consistent delivery, minimizes manual errors, and speeds up the feedback loop between developers and end-users.              | When changes have a large, unpredictable impact on end-users, making human oversight and control essential before deployment.    |
-| Works well with strong automated testing and robust monitoring systems to quickly catch and address issues.                          | For organizations lacking confidence in their test coverage or monitoring tools, as undetected issues could reach production.    |
+| Situations Where Continuous Deployment Is Beneficial                                                                                 | Situations Where Continuous Deployment May Not Be Ideal                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| Rapid innovation and frequent updates, such as in consumer-facing apps or services requiring quick iteration based on user feedback. | In highly regulated industries (ex: finance, healthcare) where changes must undergo extensive manual review before deployment. |
+| Ensures consistent delivery, minimizes manual errors, and speeds up the feedback loop between developers and end-users.              | When changes have a large, unpredictable impact on end-users, making human oversight and control essential before deployment.  |
+| Works well with strong automated testing and robust monitoring systems to quickly catch and address issues.                          | For organizations lacking confidence in their test coverage or monitoring tools, as undetected issues could reach production.  |
 
 ## Further reading
 
-- [Continuous Delivery](https://continuousdelivery.com/)</a>
-- [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)</a>
-- [Defect Prevention: Reducing Costs and Enhancing Quality](https://www.isixsigma.com/industries/software-it/defect-prevention-reducing-costs-and-enhancing-quality/)</a>
+- [Continuous Delivery](https://continuousdelivery.com/)
+- [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
+- [Defect Prevention: Reducing Costs and Enhancing Quality](https://www.isixsigma.com/industries/software-it/defect-prevention-reducing-costs-and-enhancing-quality/)
 - [Continuous Integration](https://www.martinfowler.com/articles/continuousIntegration.html)
 - [Dev Leaders Compare Continuous Delivery vs. Continuous Deployment vs. Continuous Integration](https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/)

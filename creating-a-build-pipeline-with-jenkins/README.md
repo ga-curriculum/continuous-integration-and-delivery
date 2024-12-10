@@ -15,10 +15,10 @@
 
 <div class="activity partner-exercise">
   <h2 class="title">Getting familiar with Jenkins</h2>
-  <span class="minutes">15 min</span>
+  <span class="minutes">10 min</span>
 </div>
 
-Let’s start by exploring Jenkins. With a partner, take a look at the [Jenkins documentation](https://jenkins.io/doc/) and answer these questions:
+Let’s start by exploring Jenkins. With a partner, take a look at the [Jenkins documentation](https://jenkins.io/doc/) and try to answer these questions:
 
 - How does a Jenkins pipeline work?
 - What is a Jenkinsfile?
@@ -104,6 +104,13 @@ Once your application is built—typically the first stage of your Jenkins pipel
 That’s where [**Nexus**](https://www.sonatype.com/nexus-repository-sonatype) comes in.
 
 Nexus is a **repository manager** that serves as a central hub for storing, versioning, and managing application artifacts. Using a tool like Nexus ensures that every stage of your pipeline has quick, reliable access to the exact version of the artifact it needs, without worrying about inconsistencies or manual handling.
+
+<br>
+
+<img src="./assets/sonatype-nexus-repository.png" alt="Sonatype Nexus Logo" style="width:300px;"/>
+
+<br>
+
 
 ### Why do we need Nexus?
 

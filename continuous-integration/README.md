@@ -83,10 +83,10 @@ Pipelines are typically organized into **_stages_**, and each stage contains **_
 
 Let's discuss: What do you think are the main characteristics of an ideal build pipeline?
 
-1. Fast: Your build pipeline should provide feedback almost immediately after running tests. Quick feedback allows you to identify and fix issues right away while you're still focused on the feature you're working on.
+1. **Fast**: Your build pipeline should provide feedback almost immediately after running tests. Quick feedback allows you to identify and fix issues right away while you're still focused on the feature you're working on.
 
-2. Repeatable: The process for building and testing your application should always be the same. It should also run in a consistent build environment. This consistency minimizes variability between builds, making it easier to troubleshoot bugs when they arise.
+2. **Repeatable**: The process for building and testing your application should always be the same. It should also run in a consistent build environment. This consistency minimizes variability between builds, making it easier to troubleshoot bugs when they arise.
 
-3. Reliable: Your build pipeline and tests should be designed so that failures are caused by actual issues in the application, not by problems in the testing environment or pipeline setup. For example, avoid "false positives" caused by leftover data from previous tests or conflicts over shared resources like files or databases.
+3. **Reliable**: Your build pipeline and tests should be designed so that failures are caused by actual issues in the application, not by problems in the testing environment or pipeline setup. For example, avoid "false positives" caused by leftover data from previous tests or conflicts over shared resources like files or databases.
 
 By adopting CI practices and a strong build pipeline, teams can work efficiently, reduce errors, and deliver higher-quality software.
