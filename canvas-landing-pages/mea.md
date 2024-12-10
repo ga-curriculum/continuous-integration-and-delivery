@@ -14,10 +14,10 @@ This module provides students with a conceptual introduction to CI/CD, focusing 
 | [Setup](../setup/README.md)                                                                 |       0 min        | Set up the development environment.                                                                  |
 | [What is CICD?](../what-is-cicd/README.md)                                                  |       5 min        | Differentiate between Continuous Integration, Continuous Delivery, and Continuous Deployment         |
 | [Continuous Integration](../continuous-integration/README.md)                               |       20 min       | Explain the purpose of Continuous Integration (CI)                                                   |
-| [Creating a Build Pipeline with Jenkins](../create-a-build-pipeline-with-jenkins/README.md) |       20 min       | Explain the purpose and key components of a Jenkins pipeline                                         |
+| [Creating a Build Pipeline with Jenkins](../create-a-build-pipeline-with-jenkins/README.md) |       30 min       | Explain the purpose and key components of a Jenkins pipeline                                         |
 | [Integration Testing](../integration-testing/README.md)                                     |       15 min       | Evaluate how integration testing fits into a CI/CD workflow and identify common tools and frameworks |
 | [Continuous Delivery](../continuous-delivery/README.md)                                     |       20 min       | Analyze the role of continuous delivery in streamlining deployment workflow                          |
-| **Total content**                                                                           |       80 min       |                                                                                                      |
+| **Total content**                                                                           |       90 min       |                                                                                                      |
 
 ## References
 
