@@ -40,7 +40,7 @@ In Jenkins, **[Declarative Pipeline syntax](https://www.jenkins.io/doc/book/pipe
 
 Here's an example of a basic Declarative Pipeline:
 
-```plaintext
+```groovy
 pipeline {
     agent any
     stages {
