@@ -7,7 +7,7 @@
 
 ## Continuous integration
 
-[Avoiding software disasters](https://ga-instruction.s3.amazonaws.com/assets/continuous-integration/CImeme.png) starts with **Continuous Integration (CI)**.
+[Avoiding software disasters](https://ga-curriculum.github.io/universal-resources-internal/static/lesson-assets/continuous-integration/CImeme.png) starts with **Continuous Integration (CI)**.
 
 CI is a practice where developers frequently integrate their work into a shared repository—often multiple times a day. Each integration triggers an automated build and testing process, ensuring that bugs are caught early and collaboration stays efficient.
 
